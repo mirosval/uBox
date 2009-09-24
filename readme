@@ -1,0 +1,19 @@
+Author: Miro Zoricak
+Website: http://zori.udesign.sk
+Version: 1.0 2008/01/20
+Purpose: quickly show full version of a small image
+Browser Support: FF(v3 tested, v2 expected to work) | Safari v3 tested | Opera | Chrome | IE6 and IE7 tested and working
+
+This software is distributed free of charge, but if you liked it, consider donating some money on my website
+
+Features:
+	- really easy to configure and use
+	- wide browser support (virtually every browser is supported)
+	- only one .js file required (easing plugin is required for advanced easing)
+	- no images
+	- fast even on IE6
+	- in webkit-based browsers (and Firefox 3.1) features a nice drop shadow
+	- fully configurable (including advanced easing, note: easing plugin required)
+	- adjusts itself when user resizes window
+	- minified is only 3.1 kB
+	- various configurations are allowed within one page
